@@ -1,0 +1,20 @@
+{
+    "projetos":
+    [
+        {
+            "id": 1,
+            "title": "FitProtein",
+            "description": "Pagina criada para venda de produto, mix de proteínas FitProtein.",
+            "cover": "/fitprotein.png",
+            "tags": {
+                "tag1": "html",
+                "tag2": "CSS",
+                "tag3": "React"
+            },
+            "linkGit": "https://github.com/bgoomes/fitProtein",
+            "linkIRL": "https://fit-protein.vercel.app"
+        }
+
+    ] 
+}
+

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'JMH', 'sans-serif';
+    src: url(../font/jmh_typewriter/JMH\ Typewriter-Bold.ttf) format(ttf);
+}
+
+@font-face {
+    font-family: 'JMH1', 'sans-serif';
+    src: url(../font/jmh_typewriter/JMH\ Typewriter-Bold.otf) format(otf);
+}
