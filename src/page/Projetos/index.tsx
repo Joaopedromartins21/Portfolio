@@ -19,6 +19,17 @@ import Chatbot from "../../assets/Chatbot.png"
                 linkGit="https://github.com/Joaopedromartins21/Chatbot"
                 linkURL="https://github.com/Joaopedromartins21/Chatbot" 
           />
+         <Card
+                title="Henrique Tech"
+                description="Site profissional para a empresa HenriqueTech, venda de tecnologia e soluções digitais para empresas e empreendedores."
+                cover={henrique}
+                tag1="JavaScript/TypeScript"
+                tag2="HTML5/CSS"
+                tag3="BootStrap"
+                
+                linkGit="https://github.com/Joaopedromartins21/HenriqueTechFinal"
+                linkURL="https://henriquetech.com.br/"
+          />
           
 
           
