@@ -1,6 +1,7 @@
 import { Card } from "../../components/ui/cardProjetos";
 import { Title } from "../../components/ui/title";
 import Chatbot from "../../assets/Chatbot.png"
+import henrique from "../../assets/henrique.jpg"
 
 
  export function Projetos() {
