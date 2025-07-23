@@ -2,6 +2,8 @@ import { Card } from "../../components/ui/cardProjetos";
 import { Title } from "../../components/ui/title";
 import Chatbot from "../../assets/Chatbot.png"
 import henrique from "../../assets/henrique.jpg"
+import vsmassoterapia from "../../assets/vsmassoterapia.png"
+import coral from "../../assets/coral.png"
 import orquestra from "../../assets/orquestra.png"
 import Taskflow from "../../assets/Taskflow.png";
 
@@ -32,6 +34,26 @@ import Taskflow from "../../assets/Taskflow.png";
                 tag3="BootStrap"
                 linkGit="https://github.com/Joaopedromartins21/Task-Flow"
                 linkURL="https://task-flow-dun-xi.vercel.app/"
+          />
+          <Card
+          
+                title="Vsmassoterapia"
+                description="Site profissional para a empresa vsmassoterapia."
+                cover={vsmassoterapia}
+                tag1="JavaScript/TypeScript"
+                tag2="HTML5/CSS"
+                tag3="BootStrap"
+                linkURL="https://vsmassoterapia.com.br/"
+          />
+          <Card
+          
+                title="Coralbrasilia"
+                description="Site profissional para a empresa CoralBrasilia."
+                cover={coral}
+                tag1="JavaScript/TypeScript"
+                tag2="HTML5/CSS"
+                tag3="BootStrap"
+                linkURL="https://https://coralbrasilia.com.br/"
           />
         <Card
                 title="ChatBot Vonix"
