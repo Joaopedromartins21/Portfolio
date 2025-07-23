@@ -26,19 +26,17 @@ export function Sobre() {
               </div>
               <div className="w-full sm:w-1/2 flex flex-col justify-center font-JMH gap-4 text-gray-600">
                 <p>
-                  Me chamo <Destaque text="Joao Pedro Aguiar" />, tenho {getAge('1999/10/27')} anos,
+                  Me chamo <Destaque text="João Pedro Aguiar Martins" />, tenho {getAge('1999/10/27')} anos,
                 </p>
                 <p>
-                  Sou estudante de <Destaque text="Sistemas de Informacao " />, e focado em <Destaque text="Desenvolvimento Frontend, e Back-End" />.
+                  Sou formado em <Destaque text="Sistemas de Informacao " />,e apaixonado por tecnologia e desenvolvimento de software. Tenho como foco o <Destaque text="Desenvolvimento web" />.
+                  especialmente com React e outras tecnologias modernas do ecossistema <Destaque text="JavaScript"/>.
                 </p>
                 <p>
-                Meus interesses são focados em linguagens de programação orientadas a objetos, bem como 
-                no ambiente Linux e em frameworks para aplicações. Estou constantemente buscando aprimorar minhas habilidades técnicas e acompanhar as últimas tendências do setor.
-                Tenho uma paixão genuína pela programação e estou animado em aplicar meus conhecimentos em projetos desafiadores. Estou aberto a oportunidades que me permitam crescer 
-                profissionalmente e contribuir com soluções inovadoras.Tenho Conhecimento em Diversas Tecnologias Como: <Destaque text=".Net, C#, JavaScript, TypeScript, Node Js, " />.
+                Tenho interesse em <Destaque text ="linguagens orientadas a objetos"/>, ambientes Linux e frameworks voltados para construção de aplicações robustas e escaláveis. Gosto de aprender constantemente e me mantenho atualizado com as melhores práticas e inovações do setor.
                 </p>
-                <p>Além disso, atualmente Faco Estagio no <Destaque text="Ministerio Da Gestao e Inovacao" />,
-                   Estou em constante aprendizado e atualização para acompanhar as melhores práticas e inovações no campo da tecnologia e do desenvolvimento.</p>
+                <p>Ao longo da minha trajetória, tive a oportunidade de estagiar no <Destaque text ="Ministério da Gestão e Inovação"/>, onde pude aplicar meus conhecimentos em um ambiente real e colaborar com soluções práticas para a área pública.
+                </p>
               </div>
             </div>
             <div className=" w-full h-20 ">
