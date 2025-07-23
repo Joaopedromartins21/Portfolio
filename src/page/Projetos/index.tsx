@@ -20,7 +20,7 @@ import Taskflow from "../../assets/Taskflow.png";
                 tag2="HTML5/CSS"
                 tag3="BootStrap"
                 linkGit="https://github.com/Joaopedromartins21/Orquestra"
-                linkURL="https://orquestra-sage.vercel.app/login/"
+                linkURL="https://orquestra-sage.vercel.app/"
           />
         <Card
           
