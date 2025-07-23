@@ -2,7 +2,7 @@ import { Card } from "../../components/ui/cardProjetos";
 import { Title } from "../../components/ui/title";
 import Chatbot from "../../assets/Chatbot.png"
 import henrique from "../../assets/henrique.jpg"
-import Taskflow from "../../assets/Taskflow.jpg";
+import Taskflow from "../../assets/Taskflow.png";
 
 
  export function Projetos() {
@@ -18,7 +18,6 @@ import Taskflow from "../../assets/Taskflow.jpg";
                 tag1="JavaScript/TypeScript"
                 tag2="HTML5/CSS"
                 tag3="BootStrap"
-                
                 linkGit="https://github.com/Joaopedromartins21/Task-Flow"
                 linkURL="https://task-flow-dun-xi.vercel.app/"
           />
