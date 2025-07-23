@@ -2,6 +2,7 @@ import { Card } from "../../components/ui/cardProjetos";
 import { Title } from "../../components/ui/title";
 import Chatbot from "../../assets/Chatbot.png"
 import henrique from "../../assets/henrique.jpg"
+import orquestra from "../../assets/orquestra.png"
 import Taskflow from "../../assets/Taskflow.png";
 
 
@@ -12,6 +13,17 @@ import Taskflow from "../../assets/Taskflow.png";
         <Title title="Projetos" />
         <div className="w-full grid grid-cols-1 sm:grid-cols-2 gap-4"> 
           <Card
+                title="Orquestra"
+                description="Orquestra é um sistema de gestão de entregas completo, projetado para otimizar as operações de distribuidoras e empresas de logística. Ele oferece funcionalidades robustas para gerentes e motoristas, permitindo o controle de clientes, produtos, estoque, pedidos, finanças e frota de veículos."
+                cover={orquestra}
+                tag1="JavaScript/TypeScript"
+                tag2="HTML5/CSS"
+                tag3="BootStrap"
+                linkGit="https://github.com/Joaopedromartins21/Orquestra"
+                linkURL="https://orquestra-sage.vercel.app/login/"
+          />
+        <Card
+          
                 title="Task Flow"
                 description="TaskFlow é uma aplicação de gerenciamento de tarefas e notas, projetada para ajudar usuários a organizar suas atividades diárias, definir metas e acompanhar seu progresso de forma intuitiva e eficiente. Com uma interface limpa e funcionalidades robustas, o TaskFlow visa aumentar a produtividade e a organização pessoal."
                 cover={Taskflow}
